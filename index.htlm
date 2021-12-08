@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Not responsive -->
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Kufam:wght@800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+
+
+<nav>
+    <div class="logo"><h1>Ticket Haven</h1></div>
+    <div class="menu">
+        <a href="#">Home</a>
+        <a href="#">Our services</a>
+        <a href="#">Payment </a>
+        <a href="#">Contact us</a>
+</nav>
+    </div>
+    <main>
+        <section>
+            <h3>Welcome to Ticket Haven</h3>
+            <h1>Most Reliable Bus Ticket Solution <span> </span> </h1>
+            <p>Bus Ticketing Portal In Bangladesh</p>
+
+        <center>
+    <form class="form"> 
+        <label for="name"></label>
+        <select class="Destination" id="location">
+            <option disabled selected>Form</option>
+            <option option value="Gabtoli">Gabtoli</option>
+            <option value="Magura">Magura</option>
+            <option value="Chuadanga">Chuadanga</option>
+            <option value="Kustia">Kustia</option>
+            <option value="Rangpur">Rangpur</option>
+            <option value="Shylet">Shylet</option>
+            <option value="Chittagong">Chittagong</option>
+        </select>
+
+
+        
+        <label for="name"></label>
+        <select class="Destination" id="locations">
+            <option disabled selected>To</option>
+            <option option value="Gabtoli">Gabtoli</option>
+            <option value="Magura">Magura</option>
+            <option value="Chuadanga">Chuadanga</option>
+            <option value="Kustia">Kustia</option>
+            <option value="Rangpur">Rangpur</option>
+            <option value="Shylet">Shylet</option>
+            <option value="Chittagong">Chittagong</option>
+        </select>
+
+        
+
+        <input type="date" id="date" name="date">
+        
+
+        <input type="submit" value="Submit">
+                
+      </form></center><br>
+
+
+        <section class="button">
+      <a href="#" class="btnone"> How toBuy Ticket</a>
+      <a href="login.html" class="btntwo">Login</a>
+
+
+    </section>
+    </section>
+    </main>
+
+</header>
+<div class="footer">
+    <div class="content">
+    <div class="box"><h1>About</h1>
+    <li><a>Documentation</a></li>
+    <li><a>About</a></li>
+    <li><a>About</a></li>
+    <li><a>About</a></li>
+    </div>
+    <div class="box"><h1>Support</h1>
+        <li><a href="#">About</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">About</a></li>
+    </div>
+        <div class="box"><h1>Services</h1>
+            <li><a href="#">24 hour booking</a></li>
+            <li><a href="#">Providing the best ticket price</a></li>
+            <li><a href="#">100% comfortability</a></li>
+            <li><a href="#">A/C & Non-A/C services</a></li>
+            </div>
+        <div class="box"><h1>Company Info</h1>
+            <p><h3>Ticket Haven is a premium online booking portal which allows you to purchase tickets for various bus services, launch services, movies and events across the country.</h3></p>
+        </div>
+        
+</body>
+</html>
